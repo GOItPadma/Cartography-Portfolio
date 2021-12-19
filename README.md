@@ -12,7 +12,7 @@ This map is a part of a research that was presented on the 8th International Con
 <img src="Maps/Southwest.jpg" width = 720/>
 
 ## 30DayMapChallenge
-I have a separate repository for this section.
+I have created a separate repository for this section.
 <ul>
   <li><a href="https://github.com/GOItPadma/30DayMapChallenge-2021"> 30DayMapChallenge-2021</a></li>
 </ul>
